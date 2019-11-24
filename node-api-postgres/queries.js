@@ -30,6 +30,5 @@ const addSet = (request, response) => {
 
 module.exports = {
     getExercises,
-    createExercise,
     addSet,
 }
